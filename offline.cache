@@ -1,7 +1,6 @@
 CACHE MANIFEST 
 # PS-Phwoar! Host Menu v1.1 
 
-
 index.html
 files\AppToUsb.bin
 files\AuthInfoDump.bin
@@ -26,9 +25,13 @@ files\FanControlLoader.html
 files\FTP.bin
 files\FwSpoofer.html
 files\FwSpooferLoader.html
+files\goldhen1.0_505.bin
 files\goldhen11b3.bin
+files\GoldHEN_1.1_505.bin
+files\GoldHEN_2.0b2_505.bin
 files\GoldHEN_2.0b_505.bin
-files\GoldHEN_v1.1_505.bin
+files\GoldHEN_2.1_505.bin
+files\Goldhen_2.2_505.bin
 files\gtaArabicGuy.bin
 files\gtaDope127.bin
 files\gtaIntense.bin
@@ -86,16 +89,17 @@ files\UpdatesDisable.bin
 files\UpdatesEnable.bin
 files\WebRTE.bin
 files\WebRTE2.bin
+files\WebRTE_5.05.bin
 files\img\00.png
 files\img\01.png
 files\img\BG.jpg
 files\img\FanControl.svg
 files\img\ftp.svg
 files\img\gta.svg
-files\img\hen.png
 files\img\hen.svg
 files\img\henVR.svg
 files\img\linux.svg
 files\img\Orpis1.png
 files\img\PopUp.png
 files\img\SubBG.jpg
+files\img\trainer3.png
